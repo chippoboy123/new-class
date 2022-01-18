@@ -1,0 +1,31 @@
+.heading
+{
+font: size 23px; ;
+width:100% ;
+margin:0px ;
+box-shadow:5px,5px,1px blue ;
+}
+
+
+.note
+{
+font-size:20px ; 
+color: purple;   
+}
+
+.copy_right_footer{
+position: fixed;
+color: pink;
+bottom:100% ;
+width: 5px;
+background-color:black ;
+line-height:3 ;
+text-align: center;
+}
+
+canvas
+{
+    border:solid white ;
+    border-radius:20px ;
+    box-shadow:5px,5px,0px chartreuse;
+}
